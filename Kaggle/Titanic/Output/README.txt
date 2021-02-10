@@ -1,0 +1,2 @@
+1. tf_test_Y.csv  ---  using logistic regression (Training set accuracy: "0.82042646" )
+2. test_Y.csv  ---    using neural networks (Training set accuracy: "0.8799102132435466"  and   Test set accuracy: "0.76076" )
